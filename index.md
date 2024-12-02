@@ -1,8 +1,8 @@
 # 工合
 
 - [Verbs](verbs/index.md)
-  - [是](verbs/是.md)
-  - [有](verbs/有.md)
+  - **[是](verbs/是.md)**
+  - **[有](verbs/有.md)**
 
 - [Nouns](nouns/index.md)
   - [狗](nouns/狗.md)
