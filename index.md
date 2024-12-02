@@ -4,6 +4,10 @@
   - [是](verbs/是.md)
   - [有](verbs/有.md)
 
+- [Nouns](nouns/index.md)
+  - [狗](nouns/狗.md)
+  - [貓](nouns/貓.md)
+
 - Pronouns
   - [這](pronouns/這.md)
   - [我](pronouns/我.md)
@@ -11,4 +15,5 @@
 
 - Other
   - [的](other/的.md)
+  - [嗎](other/嗎.md)
 
