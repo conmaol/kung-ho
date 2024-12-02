@@ -11,6 +11,7 @@
   - [英國人](nouns/英國人.md)
   - [水](nouns/水.md)
   - [美國](nouns/美國.md)
+  - [茶](nouns/茶.md)
 
 - [Pronouns](pronouns/index.md)
   - [這](pronouns/這.md)
