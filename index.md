@@ -10,7 +10,8 @@
   - [冰茶](nouns/冰茶.md)
   - [英國人](nouns/英國人.md)
   - [水](nouns/水.md)
-  - [美國](nouns/美國.md)
+  - [-國](nouns/國.md)
+    - [美國](nouns/美國.md), [英國](nouns/英國.md), [中國](nouns/中國.md)
   - [茶](nouns/茶.md)
 
 - [Pronouns](pronouns/index.md)
