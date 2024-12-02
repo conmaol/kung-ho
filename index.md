@@ -12,7 +12,7 @@
   - [水](nouns/水.md)
   - [美國](nouns/美國.md)
 
-- Pronouns
+- [Pronouns](pronouns/index.md)
   - [這](pronouns/這.md)
   - [我](pronouns/我.md)
   - [你](pronouns/你.md)
