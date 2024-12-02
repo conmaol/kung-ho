@@ -7,6 +7,10 @@
 - [Nouns](nouns/index.md)
   - [狗](nouns/狗.md)
   - [貓](nouns/貓.md)
+  - [冰茶](nouns/冰茶.md)
+  - [英國人](nouns/英國人.md)
+  - [水](nouns/水.md)
+  - [美國](nouns/美國.md)
 
 - Pronouns
   - [這](pronouns/這.md)
