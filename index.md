@@ -2,7 +2,7 @@
 
 Verbs:
 - [是](verbs/是.md)
-- [有] (verbs/有.md)
+- [有](verbs/有.md)
 
 Pronouns:
 - [這](pronouns/這.md)
