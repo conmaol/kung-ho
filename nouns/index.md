@@ -10,7 +10,7 @@
 ## Animals
 
 - pets
-  - [狗](狗.md), **[貓](m/mao1.md)** `māo` ‘cat’
+  - **[狗](g/gao3.md)** `gǎo` ‘a dog’, **[貓](m/mao1.md)** `māo` ‘a cat’
 
 ## Food and drink
 
