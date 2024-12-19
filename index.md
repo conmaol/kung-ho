@@ -1,8 +1,6 @@
 # 工合 – Kung-ho
 
 - [Verbs](verbs/index.md)
-  - **[是](verbs/是.md)**
-  - **[有](verbs/有.md)**
 
 - [Nouns](nouns/index.md)
 
