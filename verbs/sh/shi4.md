@@ -8,11 +8,11 @@
 
 #### Demonstrative pronouns
 
-> **[這](../../pronouns/這.md)是冰茶。** `zhè shì bīngchá` ‘This is iced tea.’ \[🦉1.1\]
+> **[這](../../pronouns/zhe4.md)是冰茶。** `zhè shì bīngchá` ‘This is iced tea.’ \[🦉1.1\]
 
 #### Personal pronouns
 
-> **[我](../../pronouns/我.md)是英國人。** `wǒ shì yīngguórén` ‘I am an Englishman.’ \[🦉1.2\]
+> **[我](../../pronouns/wo3.md)是英國人。** `wǒ shì yīngguórén` ‘I am an Englishman.’ \[🦉1.2\]
 
 ### Objects
 
@@ -24,7 +24,7 @@
 
 #### Specified common nouns
 
-> **這是[你](../../pronouns/你.md)[的](../../other/的.md)[水](../../nouns/水.md)。** `zhè shì nǐ de shuǐ` ‘This is your water.’ \[🦉1.1\]
+> **這是[你](../../pronouns/ni3.md)[的](../../other/的.md)[水](../../nouns/水.md)。** `zhè shì nǐ de shuǐ` ‘This is your water.’ \[🦉1.1\]
 
 #### Proper nouns
 
