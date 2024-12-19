@@ -10,7 +10,7 @@
 ## Animals
 
 - pets
-  - [狗](狗.md), [貓](貓.md)
+  - [狗](狗.md), [貓](m/mao1.md)
 
 ## Food and drink
 
