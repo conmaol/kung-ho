@@ -8,9 +8,9 @@
 
 #### Personal pronouns
 
-> **[我](../../pronouns/我.md)有貓。** `wǒ yǒu māo` ‘I have a cat.’ \[🦉1.1\]
+> **[我](../../pronouns/wo3.md)有貓。** `wǒ yǒu māo` ‘I have a cat.’ \[🦉1.1\]
 
-> **[你](../../pronouns/你.md)有狗嗎？** `nǐ yǒu gǒu ma` ‘Do you have a dog?’ \[🦉1.1\]
+> **[你](../../pronouns/ni3.md)有狗嗎？** `nǐ yǒu gǒu ma` ‘Do you have a dog?’ \[🦉1.1\]
 
 ### Objects
 
