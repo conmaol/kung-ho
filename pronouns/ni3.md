@@ -21,5 +21,5 @@ Back up to: [Pronouns](index.md) | [Top](../index.md)
 ----
 
 Notes:
-- The greeting **你好** `nǐ hǎo` ‘Hello!’.
+- Note the greeting **你好！** `nǐ hǎo` ‘Hello!’.
 
