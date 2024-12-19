@@ -6,7 +6,7 @@
 
 ### Subject
 
-> **這[是](../verbs/是.md)冰茶。** `zhè shì bīngchá` ‘This is iced tea.’ \[🦉1.1\]
+> **這[是](../verbs/sh/shi4.md)冰茶。** `zhè shì bīngchá` ‘This is iced tea.’ \[🦉1.1\]
 
 Other coreferents, not just food. Countries etc.
 
