@@ -16,9 +16,9 @@
 
 #### Pets
 
-> **我有[狗](../../nouns/狗.md)。** `wǒ yǒu gǒu` ‘I have a dog’ \[🦉1.1\]
+> **我有[狗](../../nouns/g/gou3.md)。** `wǒ yǒu gǒu` ‘I have a dog’ \[🦉1.1\]
 
-> **你有[貓](../../nouns/貓.md)嗎？** `nǐ yǒu māo ma` ‘Do you have a cat?’ \[🦉1.1\]
+> **你有[貓](../../nouns/m/mao1.md)嗎？** `nǐ yǒu māo ma` ‘Do you have a cat?’ \[🦉1.1\]
 
 ## Functions
 
