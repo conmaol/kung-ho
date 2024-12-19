@@ -1,6 +1,6 @@
 # 是
 
-**是** `shì` ‘be, is, are, am’ is a [verb](index.md).
+**是** `shì` ‘be, is, are, am’ is a [verb](../index.md).
 
 ## Dependents
 
